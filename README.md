@@ -1,0 +1,2 @@
+# Flash-Cards
+This is aa application I created for preparing for GRE exam. It's dictionary is based on the GRE Master Word List (Sharon Weiner Green, Ira K. Wolf, "GRE, 22nd edition With Online Bonus Tests: With Bonus Online Tests, Barrons Educational Series ,2015") and Google Vocabulary. Contains approximately 4000 words with explanations and sample sentences. Some words are translated in Russian and have synonyms listed.
